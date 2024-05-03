@@ -1,3 +1,6 @@
+// https://github.com/cammylexi/zybook-28.14.git
+// Camryn McPhaul and Mikeala Amanfo
+
 #include <iostream>
 #include <limits>
 #include <vector>
